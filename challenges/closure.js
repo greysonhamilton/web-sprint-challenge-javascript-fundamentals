@@ -16,7 +16,7 @@ function myFunction() {
 }
 myFunction();
 
-// Explanation: 
+// Explanation: The variable defined as 'const internal' is accessable by 'nestedFunction' because it exists within the same "block". 'const' is a variable that is of block scope, so as the function exists within the same block as the variable, it is accessable.
 
 
 /* Task 2: Counter */
